@@ -1,0 +1,12 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:zka-fi/frontend.git
+[submodule "contract"]
+	path = contract
+	url = git@github.com:zka-fi/contract.git
+[submodule "circuits"]
+	path = circuits
+	url = git@github.com:zka-fi/circuits.git
+[submodule "merkle-tree"]
+	path = merkle-tree
+	url = git@github.com:zka-fi/merkle-tree.git
